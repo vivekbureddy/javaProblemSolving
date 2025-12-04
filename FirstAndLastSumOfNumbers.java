@@ -3,7 +3,7 @@ package easylevelproblemsolving;
 public class FirstAndLastSumOfNumbers {
 	public static void main(String[] args) {
 
-		int num=765,count=0,sum1=0,sum2=0;
+		int num=7171,count=0,sum1=0,sum2=0;
 		int temp=num;
 		while(temp!=0) {
 			count++;
